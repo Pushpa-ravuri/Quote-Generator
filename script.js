@@ -11,7 +11,6 @@ const quotes = [
 { text: "Your limitation—it's only your imagination.", author: "Unknown" },
 { text: "Push yourself, because no one else is going to do it for you.", author: "Unknown" },
 { text: "Great things never come from comfort zones.", author: "Unknown" },
-{ text: "Dream it. Wish it. Do it.", author: "Unknown" },
 { text: "Stay focused and never give up.", author: "Unknown" },
 { text: "The harder you work for something, the greater you'll feel when you achieve it.", author: "Unknown" },
 { text: "Don’t stop when you’re tired. Stop when you’re done.", author: "Marilyn Monroe" },
